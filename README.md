@@ -1,4 +1,4 @@
-# 🌿 MealPlan
+# 🌿 Mise
 
 > AI-powered meal planning that saves you money, reduces food waste, and makes grocery shopping effortless.
 
